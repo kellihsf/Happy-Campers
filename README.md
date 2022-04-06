@@ -7,10 +7,7 @@
 
 
 
-https://user-images.githubusercontent.com/4775572/161877044-46e7e845-233e-4aab-a02d-15c8e479ec06.mp4
-
-
-
+![Hnet com-image](https://user-images.githubusercontent.com/4775572/161877503-b9e80735-9a88-4068-8c6f-6e69d024adfd.gif)
 
 Link to website: 
 https://happy-campers-app-working.netlify.app/
