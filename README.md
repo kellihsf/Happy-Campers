@@ -8,15 +8,14 @@ Additionally, the user will be able to view a short description of the park and 
 
 APIs:
 
-https://www.nps.gov/subjects/developer/api-documentation.htm#/
+[National Park Service](https://www.nps.gov/subjects/developer/api-documentation.htm#/)
 
-https://www.weatherapi.com/
+[Weather API](https://www.weatherapi.com/)
 
 
 ![Hnet com-image](https://user-images.githubusercontent.com/4775572/161877503-b9e80735-9a88-4068-8c6f-6e69d024adfd.gif)
 
-Link to website: 
-https://happy-campers-app-working.netlify.app/
+[Visit Happy Campers](https://happy-campers-app-working.netlify.app/)
 
 
 Happy Camping! 🏕
