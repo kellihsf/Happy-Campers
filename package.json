@@ -1,0 +1,23 @@
+{
+  "name": "Happy-Campers",
+  "version": "1.0.0",
+  "description": "```Description: This front-end app allows users to search National Parks and view the weather at the selected park at the time of the search. Additionally, the user will be able to view a short description of the park and book a reservation via the link provided.  ```",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellihsf/Happy-Campers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kellihsf/Happy-Campers/issues"
+  },
+  "homepage": "https://github.com/kellihsf/Happy-Campers#readme",
+  "devDependencies": {
+    "cypress": "^9.5.4"
+  }
+}
